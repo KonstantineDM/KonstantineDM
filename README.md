@@ -1,4 +1,4 @@
-Hi, my name is Konstantine! (@KonstantineDM)  
+Hi, my name is Konstantin! (@KonstantineDM)  
 Welcome to my GitHub Profile.  
 
 I'm a self-taught Python developer. Interested in Scripting, App Development, Data Analysis, Machine learning, AI.
