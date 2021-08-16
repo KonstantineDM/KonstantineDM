@@ -5,4 +5,4 @@ I'm a self-taught Python developer. Interested in Scripting, App Development, Da
 
 Currently learning Python, actively looking for a job as a Python Junior to kickstart my career.
 
-Self-driven, result-oriented, reliable and communicative.
+Self-driven, result-oriented, responsible, reliable, polite and communicative.
