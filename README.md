@@ -1,7 +1,7 @@
 Hi, my name is Konstantin! (@KonstantineDM)  
 Welcome to my GitHub Profile.  
 
-Working as a full-time nodejs backend developer @Fojin.
+Working as a full-time Node.js backend developer backend developer @Fojin.
 
 Currently learning PHP/Laravel.
 
